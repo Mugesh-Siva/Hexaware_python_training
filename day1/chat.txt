@@ -1,0 +1,27 @@
+Surya V (Unverified) has temporarily joined the chat.
+
+ 
+Pranav Sriram V (Unverified) has temporarily joined the chat.
+
+ 
+Swathi, we are not able to hear you
+ 
+Python Foundation - Day 1 Quiz
+Python Foundation - Day 1 Quiz
+Day 1 assessment covering Python basics, keywords, identifiers, variables, operators, comments, and data types.
+Instructions: Read each question carefully. Select one answer for every question. Th...
+ 
+https://drive.google.com/drive/folders/1ZhNYVz-MIspf-JnnktSJOLgCkTzssAtW?usp=sharing
+DAY_1 PYTHON FOUNDATIONS - Google ドライブ
+ 
+I have completed the test. Give me 5 mins. I will be back
+ 
+I am back
+ 
+https://drive.google.com/drive/folders/1ZhNYVz-MIspf-JnnktSJOLgCkTzssAtW?usp=sharing
+DAY_1 PYTHON FOUNDATIONS - Google ドライブ
+ 
+https://forms.gle/EUr19SgFfQeiNwxE8
+ 
+py -m venv myenv
+ 
