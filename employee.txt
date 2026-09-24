@@ -1,0 +1,2 @@
+swathi,HR,65000
+priya,IT,50000
