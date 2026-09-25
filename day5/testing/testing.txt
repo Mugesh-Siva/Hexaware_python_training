@@ -1,0 +1,10 @@
+unit testing
+    testing the smallest module or code possible
+integration testing
+    testing multiple integrated modules
+system testing
+    testing the entire system
+accpectance testing
+    testing weather the customer needs are stasified or not
+regression testing
+    Regression testing: Testing an existing application after changes to ensure that previously working features still work correctly.
