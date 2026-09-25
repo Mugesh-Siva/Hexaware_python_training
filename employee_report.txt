@@ -1,0 +1,9 @@
+Employee Analytics Report
+-------------------------
+Valid Employees: 3
+Total Salary: 200000
+Total Bonus: 27250.0
+Average Salary: 66666.67
+Highest Salary: 80000
+Lowest Salary: 55000
+Department Summary: {'IT': 1, 'HR': 1, 'Finance': 1}
